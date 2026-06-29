@@ -1,0 +1,7 @@
+# Binaires compilés
+projet
+projet.exe
+*.o
+
+# Stats générées automatiquement (optionnel)
+python/stats.txt
